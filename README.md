@@ -6,7 +6,7 @@ Kevin Chen, Maya Shen, Kayo Yin, Kenneth Zheng
 
 ## Final Composition
 
-![final_composition](/Users/kentoshin/projects/ghibli-ml-art/final_composition.png)
+![final_composition](./composition_final.png)
 
 ## Tools
 
